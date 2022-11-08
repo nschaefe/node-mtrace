@@ -5,7 +5,7 @@
   "author": "Nicolas Schaefer",
   "repository": {
     "type": "git",
-    "url": "git://github.com/"
+    "url": "https://github.com/nschaefe/node-mtrace"
   },
   "main": "index.js",
   "engines": {
