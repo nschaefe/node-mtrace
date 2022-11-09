@@ -6,3 +6,5 @@ node-gyp configure build
 
 Package the module with 
 npm pack
+
+For examples usages checkout the examples/ folder
