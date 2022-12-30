@@ -1,7 +1,7 @@
 {
   "name": "mtrace",
   "description": "JS Wrapper for mtrace for native memory allocation tracing in node.",
-  "version": "1.0.0",
+  "version": "0.8.0",
   "author": "Nicolas Schaefer",
   "repository": {
     "type": "git",
